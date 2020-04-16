@@ -1,11 +1,11 @@
 # →練習←
 ## 1107211002柯苡萱
 
+[點一下](https://www.youtube.com/?gl=TW&hl=zh-TW)
+
 * 這是練習 
 * 練習
 * 練 習
-
- [點一下](https://www.youtube.com/?gl=TW&hl=zh-TW)
 
 | 練習   | 練習      |    練習      |
 |-------|-----------|--------------|
@@ -25,10 +25,10 @@ html 代表 **hyper text markup language**
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>HEY</title>
+        <title> HEY </title>
     </head>
     <body>
-    <h1>HA HA/h1>
+    <h1> HA HA </h1>
     </body>
     </html>
 
