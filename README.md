@@ -4,6 +4,10 @@
 * 這是練習 
 * 練習
 * 練 習
- 
+
+* [點一下](https://www.youtube.com/?gl=TW&hl=zh-TW)
+
+| 練習   | 練習      |    練習      |
+|-------|-----------|--------------|
+| practice     | exercise       |   drill |
 # 內容:文字標題, 超連結, 項目列表, 表格, 圖片, 程式語法
-* [我的學號與名稱](https://github.com/devinliang/gitest/)
