@@ -25,10 +25,10 @@ html 代表 **hyper text markup language**
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>新文件</title>
+        <title>HEY</title>
     </head>
     <body>
-    <h1>Hello World</h1>
+    <h1>HA HA/h1>
     </body>
     </html>
 
