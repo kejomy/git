@@ -5,7 +5,7 @@
 * 練習
 * 練 習
 
-* [點一下](https://www.youtube.com/?gl=TW&hl=zh-TW)
+ [點一下](https://www.youtube.com/?gl=TW&hl=zh-TW)
 
 | 練習   | 練習      |    練習      |
 |-------|-----------|--------------|
